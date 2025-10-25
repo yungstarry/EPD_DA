@@ -138,7 +138,7 @@ Key analytical questions addressed:
 ## 📊 8. Dashboards  
 
 ### 🧍‍♂️ Demographics Dashboard  
-![Demographics Dashboard](./dash1.png)
+![Demographics Dashboard](./Dash1.png)
 **Key Metrics**
 - Total Employees: **7,500**  
 - Annual Workforce Cost: **$204.4M**  
